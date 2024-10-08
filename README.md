@@ -1,8 +1,16 @@
 # Hospital-Patient-Data-Analysis
-This dataset is taken from Kaggle (https://www.kaggle.com/datasets/prasad22/healthcare-dataset).
+This project analyzes a healthcare dataset sourced from Kaggle [(link)](https://www.kaggle.com/datasets/prasad22/healthcare-dataset). The SQL queries conducted on the Healthcare database provided comprehensive insights into various facets of patient demographics, medical conditions, treatments, financial aspects, and hospital performances. These findings facilitate informed decision-making processes and offer valuable insights for healthcare management and analysis.
 
-The SQL queries conducted on the Healthcare database provided comprehensive insights into various facets of patient demographics, medical conditions, treatments, financial aspects, and hospital performances. These findings facilitate informed decision-making processes and offer valuable insights for healthcare management and analysis.
-   
+## Table of Contents
+
+1. [Data Overview & Basic Statistics](#data-overview--basic-statistics)
+2. [Medical Conditions & Medications](#medical-conditions--medications)
+3. [Insurance Providers & Hospitals](#insurance-providers--hospitals)
+4. [Financial Analysis & Duration of Hospitalization](#financial-analysis--duration-of-hospitalization)
+5. [Blood Type Analysis & Donation Matching](#blood-type-analysis--donation-matching)
+6. [Yearly Admissions & Insurance Analysis](#yearly-admissions--insurance-analysis)
+7. [Patient Risk Categorization](#patient-risk-categorization)
+8. [Dataset Column Descriptions](#dataset-column-descriptions)
 # Each column provides specific information about the patient, their admission, and the healthcare services provided, making this dataset suitable for various data analysis and modeling tasks in the healthcare domain. Here's a brief explanation of each column in the dataset -
 # 1. Name: This column represents the name of the patient associated with the healthcare record.
 # 2. Age: The age of the patient at the time of admission, expressed in years.
